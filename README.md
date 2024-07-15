@@ -49,7 +49,7 @@ The `./main` command requires its first argument be one of `--init`, `--update`,
 
 ## State File
 
-The *state file* is a CSV (comma-separated values) file with two columns. The first column is the number. There should be a row for every number from 1 to 100, but they need not appear in order. The second column is the *count* of the number of times that number has been incremented.  The first row in the state file contains column names for convenience ("Numbrer" and "Count"), and can be discarded when we are looking for just the data.
+The *state file* is a CSV (comma-separated values) file with two columns. The first column is the number. There should be a row for every number from 1 to 100, but they need not appear in order. The second column is the *count* of the number of times that number has been incremented.  The first row in the state file contains column names for convenience ("Number" and "Count"), and can be discarded when we are looking for just the data.
 
 ## Q and A
 
